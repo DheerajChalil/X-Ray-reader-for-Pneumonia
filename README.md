@@ -5,5 +5,5 @@ Due to limitations of the dataset CNN gave validation accuracy of 91% and loss o
 Channel the epochs for better results and avoid overfitting
 # For dataset..
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-#or
+# or
 clone this repo
